@@ -5,7 +5,7 @@ A **modular, customizable ERP system** built with **Next.js (App Router)**, **Ty
 ---
 
 ## 🏗️ Folder Structure
-
+```bash
 my-app/
 ├── app/
 │ ├── (auth)/ # Login, register, password reset, etc.
@@ -49,8 +49,7 @@ my-app/
 ├── next.config.js # Next.js config
 ├── tsconfig.json # TypeScript config
 └── package.json # Dependencies and scripts
-
-
+```
 ---
 
 ## ⚙️ Tech Stack
